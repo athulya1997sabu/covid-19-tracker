@@ -1,0 +1,92 @@
+[
+  {
+    "state": "Maharashtra",
+    "date": "2024-08-01",
+    "totalCases": 1000000,
+    "activeCases": 50000,
+    "recovered": 940000,
+    "deaths": 10000,
+    "lat": 19.7515,
+    "lon": 75.7139
+  },
+  {
+    "state": "Maharashtra",
+    "date": "2024-08-02",
+    "totalCases": 1005000,
+    "activeCases": 52000,
+    "recovered": 944000,
+    "deaths": 10500,
+    "lat": 19.7515,
+    "lon": 75.7139
+  },
+  {
+    "state": "Maharashtra",
+    "date": "2024-08-03",
+    "totalCases": 1010000,
+    "activeCases": 54000,
+    "recovered": 948000,
+    "deaths": 11000,
+    "lat": 19.7515,
+    "lon": 75.7139
+  },
+  {
+    "state": "Kerala",
+    "date": "2024-08-01",
+    "totalCases": 500000,
+    "activeCases": 10000,
+    "recovered": 480000,
+    "deaths": 2000,
+    "lat": 10.8505,
+    "lon": 76.2711
+  },
+  {
+    "state": "Kerala",
+    "date": "2024-08-02",
+    "totalCases": 505000,
+    "activeCases": 12000,
+    "recovered": 483000,
+    "deaths": 2500,
+    "lat": 10.8505,
+    "lon": 76.2711
+  },
+  {
+    "state": "Kerala",
+    "date": "2024-08-03",
+    "totalCases": 510000,
+    "activeCases": 14000,
+    "recovered": 486000,
+    "deaths": 3000,
+    "lat": 10.8505,
+    "lon": 76.2711
+  },
+  {
+    "state": "Karnataka",
+    "date": "2024-08-01",
+    "totalCases": 600000,
+    "activeCases": 15000,
+    "recovered": 580000,
+    "deaths": 5000,
+    "lat": 15.3173,
+    "lon": 75.7139
+  },
+  {
+    "state": "Karnataka",
+    "date": "2024-08-02",
+    "totalCases": 605000,
+    "activeCases": 16000,
+    "recovered": 585000,
+    "deaths": 5500,
+    "lat": 15.3173,
+    "lon": 75.7139
+  },
+  {
+    "state": "Karnataka",
+    "date": "2024-08-03",
+    "totalCases": 610000,
+    "activeCases": 17000,
+    "recovered": 590000,
+    "deaths": 6000,
+    "lat": 15.3173,
+    "lon": 75.7139
+  }
+]
